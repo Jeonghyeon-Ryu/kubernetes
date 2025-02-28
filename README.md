@@ -1,28 +1,28 @@
 # kubernetes
 1장. 도커 및 컨테이너 기초
-  기술 요구 사항
-  컨테이너화의 필요성 이해
-  쿠버네티스에서 도커를 지원 중단하는 이유
-  도커 소개
-  도커 이해하기
-  컨테이너는 일시적이다
-  도커 이미지
-  이미지 레이어
-  영구 데이터
-  컨테이너에서 실행 중인 서비스에 액세스
-  도커 설치
-  도커 설치 준비
-  Ubuntu에 도커 설치
-  도커 권한 부여
-  도커 CLI 사용
-  docker help
-  docker run
-  docker ps
-  docker start and stop
-  docker attach
-  docker exec
-  docker logs
-  docker rm
+  - 기술 요구 사항
+  - 컨테이너화의 필요성 이해
+  - 쿠버네티스에서 도커를 지원 중단하는 이유
+  - 도커 소개
+  - 도커 이해하기
+  - 컨테이너는 일시적이다
+  - 도커 이미지
+  - 이미지 레이어
+  - 영구 데이터
+  - 컨테이너에서 실행 중인 서비스에 액세스
+  - 도커 설치
+  - 도커 설치 준비
+  - Ubuntu에 도커 설치
+  - 도커 권한 부여
+  - 도커 CLI 사용
+  - docker help
+  - docker run
+  - docker ps
+  - docker start and stop
+  - docker attach
+  - docker exec
+  - docker logs
+  - docker rm
 
 2장. KinD를 이용한 쿠버네티스 배포
   기술 요구 사항
